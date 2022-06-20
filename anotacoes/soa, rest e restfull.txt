@@ -1,0 +1,10 @@
+EVOLUÇÃO DOS MICROSERVIÇOS
+
+SOA-Arquitetura orientada a serviços SOA. 
+Comunicação em XML usando SOA.
+
+REST - A implementação do REST são o RESTfull.
+Microserviços com responsabilidades definidas.
+
+REST->É a arquitetura.
+RESTfull->São os microserviços, como salvar, deletar, etc.

@@ -1,0 +1,9 @@
+SISTEMAS EM REST/RESTfull
+
+Retorna dados no formato JSON
+Front-end e back-end não dependem um do outro.
+
+AJAX + JSON
+
+AJAX-Faz a req com get, post, put, delete
+JSON-Retorno de dados no formato JSON

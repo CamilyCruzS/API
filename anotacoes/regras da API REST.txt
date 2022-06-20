@@ -1,0 +1,26 @@
+Regras da API REST
+
+1-Tem que existir o front-end e o back-end
+
+2-Stateless (sem estados) - sem sessões amarradas. Ou seja, o cliente deverá ter todas 
+autorizações automaticamente, sem precisar que alguem no lado do servidor fique intermediando
+o acesso do cliente e da api. A propria API deverá ter recursos para entregar o que o cliente
+precisa sem precisar que alguem do lado do servidor fique autorizando a entrega.
+
+EX: Se o cliente quiser alterar sua senha, devera receber um token e a partir desse token
+fazer a alteração sem precisar que alguem do lado do servidor envie esse token manualmente.
+
+
+3-Permitir que o cache seja feito, caso necessário.
+
+
+4-Interface uniforme. Um sistema não pode diferenciar instruções ou processar algo diferente
+para o navegador, desktop ou mobile. Devera ter o mesmo processamento em todos dispositivos.
+
+
+5-Sistemas em camadas - devera ser possivel adicionar algum serviço entre o cliente e a API
+EX: autenteticação de token com JSON WEB TOKEN.
+
+
+6-Codigo sob demanda. 
+EX: Importar de uma biblioteca JS direto da API.

@@ -1,0 +1,12 @@
+Modelagem de URIs
+URI -> Caminho de acesso
+
+1-Seguir um padrão
+EX: /cliente -> utilizar essa URI para todos os verbos Http
+
+2-Nunca expor na URI a ação que voce esta fazendo, ou seja, nunca coloque na URI
+o seguinte exemplo: /cadastrarCliente  ou  /deletarCliente. Siga o padrao para todos os 
+verbos utilizando apenas /cliente
+
+
+

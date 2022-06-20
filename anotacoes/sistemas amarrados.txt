@@ -1,0 +1,9 @@
+SISTEMAS AMARRADOS - MVC
+
+São sistemas que tem o front e o back dependentes um do outro, pois estao amarrados.
+
+EX1: se caso o cliente queira tirar o front de Html e passar para react, ele tera que
+modificar todo o back tbm, pois esta amarrado ao front end.
+
+EX2:se o cliente decidir trocar a linguagem de programação do back, ele tera que
+refazer o front tbm

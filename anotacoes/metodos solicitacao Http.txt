@@ -1,0 +1,13 @@
+METODOS DE SOLICITAÇÃO HTTP
+
+GET- Consultar dados que já estao salvos no banco 
+	ANOTAÇÃO SPRING: @GetMapping
+
+POST- Envio de dados para o banco 
+	ANOTAÇÃO SPRING: @PostMapping
+
+PUT- Atualização de dados 
+	ANOTAÇÃO SPRING: @PutMapping
+
+DELETE- Apagar dados
+	ANOTAÇÃO SPRING: @DeleteMapping
